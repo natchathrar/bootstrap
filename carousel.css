@@ -1,0 +1,48 @@
+.div{
+    height: 470px;
+    width: 400px;
+    background-color: rgb(250, 246, 246);
+    color: rgb(172, 163, 163);
+    padding: 150px;
+    margin: 15px;
+    font-size: 30px;
+    font-weight: bold;
+}
+.photo
+{
+    height: 430px;
+    width: 100%;
+    background-color: lightslategray;
+    color: white;
+    padding-top: 180px;
+    margin-top: 55px;
+    padding-right: 70px;
+    padding-left: 50px;
+}
+.right
+{
+    text-align: right;
+    padding-inline-end: 50px ;
+}
+.sizing
+{
+    font-size:50px;
+    padding-top: 150px;
+
+}
+footer
+{
+    height: 150px;
+    padding: 45px;
+    display: block;
+}
+footer a
+{
+    text-decoration: none;
+}
+.p
+{
+    float: right;
+    padding-left: 500px ;
+    display: block;
+}
